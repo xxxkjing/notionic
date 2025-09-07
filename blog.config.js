@@ -16,7 +16,7 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: true,
   pagesShow: {
-    newsletter: false,
+    newsletter: true,
     notes: false,
     projects: true,
     contact: true,
