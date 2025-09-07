@@ -2,7 +2,7 @@ const BLOG = {
   title: '笔记本',
   author: 'MetaIllusion',
   email: 'xkjing.xiajing@gmail.com',
-  link: 'https://xia.shfu.cn',
+  link: 'https://github.shfu.cn',
   newsletter: 'Notionic Weekly',
   description: 'MetaIllusion的笔记本',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
