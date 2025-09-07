@@ -52,7 +52,7 @@ const Footer = ({ fullWidth }) => {
     {
       id: 3,
       name: t.NAV.CONTACT,
-      to: '/contact',
+      to: 'mailto:xkjing.xiajing@gmail.com',
       icon: <EnvelopeIcon className='inline-block mb-1 h-5 w-5' />,
       show: BLOG.pagesShow.contact
     }
