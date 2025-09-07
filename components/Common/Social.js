@@ -12,17 +12,10 @@ const Social = () => {
         aria-label='Email'
         className='text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100'
       >
-        <svg
-          className='w-5 h-5'
-          width='24'
-          height='24'
-          viewBox='0 0 24 24'
-          fill='currentColor'
-          xmlns='http://www.w3.org/2000/svg'
-        >
-          <path fill='none' d='M0 0h24v24H0z' />
-          <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"></path>
-        </svg>
+        <svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 7.00005L10.2 11.65C11.2667 12.45 12.7333 12.45 13.8 11.65L20 7" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="3" y="5" width="18" height="14" rx="2" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>
       </Link>
 
 
