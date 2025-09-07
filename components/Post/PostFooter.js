@@ -29,7 +29,7 @@ const PostFooter = () => {
             </button>
           )}
           <button
-            onClick={() => router.push(BLOG.path || '/contact')}
+            onClick={() => router.push(BLOG.path || 'mailto:xkjing.xiajing@gmail.com')}
             className='flex gap-1 cursor-pointer bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 hover:text-gray-600 dark:hover:text-gray-300 text-sm rounded-lg px-4 py-2'
           >
             <EnvelopeIcon className='flex flex-col justify-center items-center select-none relative w-5 h-5' />
