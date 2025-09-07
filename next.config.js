@@ -6,7 +6,7 @@ module.exports = {
     TELEGRAM_TOKEN: process.env.TELEGRAM_TOKEN || '',
   },
   i18n: {
-    locales: ['en', 'zh'],
+    locales: ['zh'],
     defaultLocale: 'zh',
     localeDetection: false
   },
