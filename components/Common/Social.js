@@ -6,7 +6,7 @@ const Social = () => {
     <div className='flex gap-4'>
 
       <Link
-        href={`${BLOG.email}`}
+        href="mailto:xkjing.xiajing@gmail.com"
         scroll={false}
         target='_blank'
         aria-label='Email'
